@@ -15,7 +15,7 @@ without starting with a predefined business question.
 The Mystery Dataset problem provides a large dataset without a predefined
 business question.
 
-Our objective is to:
+My objective is to:
 
 - Understand the dataset
 - Clean and preprocess the data
@@ -31,7 +31,7 @@ Our objective is to:
 
 ## 💡 Solution
 
-We developed a complete exploratory and analytical pipeline:
+I developed a complete exploratory and analytical pipeline:
 
 1. Dataset loading
 2. Data quality analysis
